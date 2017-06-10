@@ -14,7 +14,7 @@ h1{
 	margin: 30px;
 }
 
-div.menu, div.title{
+section.menu, div.title{
 	border: 1px solid black;
 }
 
@@ -24,7 +24,7 @@ p{
 	/*box-sizing: content-box;*/
 }
 
-div.menu{
+section.menu{
 	background-color: grey;
 	/*padding: 10px 10px 10px 10px;*/
 	margin: 15px;
